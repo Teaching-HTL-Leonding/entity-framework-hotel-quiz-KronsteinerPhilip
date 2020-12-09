@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Hotel_Exercise": {
+      "commandName": "Project",
+      "commandLineArgs": "add"
+    }
+  }
+}
